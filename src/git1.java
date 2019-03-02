@@ -9,6 +9,8 @@ public class git1 {
 		System.setProperty("webdriver.chrome.driver","/Users/rohitbaweja/Desktop/chromedriver");
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://www.google.com");
+		
+		System.out.println("adding again");
 	}
 	
 	
