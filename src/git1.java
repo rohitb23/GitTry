@@ -1,3 +1,4 @@
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
@@ -9,6 +10,8 @@ public class git1 {
 		System.setProperty("webdriver.chrome.driver","/Users/rohitbaweja/Desktop/chromedriver");
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://www.google.com");
+		driver.findElement(By.id("q")).sendKeys("Rohit Baweja");
+		System.out.println("Results are coming ...");
 	}
 	
 	
