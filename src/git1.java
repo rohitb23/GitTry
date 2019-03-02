@@ -11,7 +11,12 @@ public class git1 {
 		driver.get("https://www.google.com");
 		
 		System.out.println("adding again");
+<<<<<<< HEAD
 		System.out.println("Try this");
+=======
+		
+		// adding a comment
+>>>>>>> bcccedc1d61dfb33cea82be0ddf970b2505c18b0
 	}
 	
 	
