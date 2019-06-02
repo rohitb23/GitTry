@@ -2,5 +2,8 @@
 This is a new entry to code
 ADDING ANOTHER LINE OF CODE
 =======
+
+Test on master
 Where are the changes
->>>>>>> e0618565bdfa7050c4ead22174ac416e33268cad
+>>>>>>
+> e0618565bdfa7050c4ead22174ac416e33268cad
